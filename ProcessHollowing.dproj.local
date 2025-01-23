@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.149,=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.669,C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\BinaryInjector.dproj=E:\우현\Binary Injection\BinaryInjector.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.746,C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\BinaryInjector.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.604,E:\우현\Binary Injection\ProcessHallowing.dproj=E:\우현\Binary Injection\ProcessHollowing.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.006,E:\우현\Binary Injection\BinaryInjector.dproj=E:\우현\Binary Injection\ProcessHallowing.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.333,=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
